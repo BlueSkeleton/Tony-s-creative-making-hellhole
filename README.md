@@ -5,12 +5,14 @@
 
 ## Self Portrait
 https://editor.p5js.org/BlueTony/present/_1F90r0ve
+
 This was cool I guess, had to get used to calculating and writing every shape but could have been worse. Drawing is not my speciality by any means, so p5.js could be a pretty useful tool. That or I could use photoshop.
 I also made some line work sketches, but they are lost to the world now. Good riddance
 
 ## Fabrics
 https://editor.p5js.org/BlueTony/sketches/nfdhkEu4k
 https://editor.p5js.org/BlueTony/sketches/Xyfns3sNc
+
 I liked doing these. They made me think more about transparency and its importance in design.
 
 ## Design
