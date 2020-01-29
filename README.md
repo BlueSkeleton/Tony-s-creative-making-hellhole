@@ -31,6 +31,16 @@ https://editor.p5js.org/BlueTony/sketches/s7GulhoZj
 
 I really like the Purple-Black color scheme. It's really just the aesthetic but it got me thinking: If in color theory purple represents royalty, and black represents nothingness, can this cool color combo be said to represent ruling over nothing? I don't know, maybe.
 
+## The Passive Agressive Game
+https://editor.p5js.org/BlueTony/sketches/8wvUP4UJW
+
+Writing the code for this one made me feel like I was talking to myself a little bit.
+
+## The Tennis Game
+https://editor.p5js.org/BlueTony/sketches/WW7axWFaU
+
+Not much to say about this one, except I realized after the deed was done that you can click on tennis balls you previously clicked out of existence and they will still produce the "POW!" text.
+
 ## Design
 [![The-Graphic-Scene.jpg](https://i.postimg.cc/htBPJCZF/The-Graphic-Scene.jpg)](https://postimg.cc/F7TQ8xQG)
 This was pretty fun to make. For some reason I was really having trouble justifying the text correctly, but after that it went really smoothly. I wonder if everyone else's design projects had any kind of rhyme or reason to them. On the suggestion of my peers, I decided to alter the font, it looks dope now. Shoutout to Harry and his car poster deal.
