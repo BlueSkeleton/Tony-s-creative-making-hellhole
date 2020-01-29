@@ -12,8 +12,14 @@ I also made some line work sketches, but they are lost to the world now. Good ri
 ## Fabrics
 https://editor.p5js.org/BlueTony/sketches/nfdhkEu4k
 https://editor.p5js.org/BlueTony/sketches/Xyfns3sNc
+https://editor.p5js.org/BlueTony/sketches/CmoC80KbZ
 
 I liked doing these. They made me think more about transparency and its importance in design.
+
+## The Video Scene
+https://editor.p5js.org/BlueTony/sketches/AoiI2vAfd
+
+Pretty cool, might stick to VLC though.
 
 ## Design
 [![The-Graphic-Scene.jpg](https://i.postimg.cc/htBPJCZF/The-Graphic-Scene.jpg)](https://postimg.cc/F7TQ8xQG)
