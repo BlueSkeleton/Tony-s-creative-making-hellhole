@@ -25,6 +25,12 @@ Pretty cool, might stick to VLC though.
 
 This was a blast. Definitely among the top 5 presentations I have given in my lifetime. It's kinda strange how something usually dismissed as a meme genre can have such an interesting history and evolution process.
 
+## Assorted Purple-Black Knick Knacks
+https://editor.p5js.org/BlueTony/sketches/NYmmgzhvW
+https://editor.p5js.org/BlueTony/sketches/s7GulhoZj
+
+I really like the Purple-Black color scheme. It's really just the aesthetic but it got me thinking: If in color theory purple represents royalty, and black represents nothingness, can this cool color combo be said to represent ruling over nothing? I don't know, maybe.
+
 ## Design
 [![The-Graphic-Scene.jpg](https://i.postimg.cc/htBPJCZF/The-Graphic-Scene.jpg)](https://postimg.cc/F7TQ8xQG)
 This was pretty fun to make. For some reason I was really having trouble justifying the text correctly, but after that it went really smoothly. I wonder if everyone else's design projects had any kind of rhyme or reason to them. On the suggestion of my peers, I decided to alter the font, it looks dope now. Shoutout to Harry and his car poster deal.
